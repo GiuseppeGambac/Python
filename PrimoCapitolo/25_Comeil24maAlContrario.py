@@ -16,5 +16,4 @@ print(str(secondi) + " secondi")
 
 
  
-#25  27 28   32    33   34
 

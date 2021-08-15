@@ -1,5 +1,5 @@
 print("Soldi iniziali")
-numero1 = round(float(input()),3)                                                                  # HO SITEMATO COSI, ARROTONDO IL FLOAT A 3 DECIMALI
+numero1 = round(float(input()),2)   # comando per arrotondare a due numeri dopo la virgola                                                               # HO SITEMATO COSI, ARROTONDO IL FLOAT A 3 DECIMALI
 
 
 Monete50 = 0.50

@@ -11,6 +11,6 @@ gramminumero2 = numero2 * 112
 totalepeso = gramminumero1 + gramminumero2
 
 KG = totalepeso / 1000
-print(str(KG) +" KG")
+print("%f KG"  %KG)
 
 

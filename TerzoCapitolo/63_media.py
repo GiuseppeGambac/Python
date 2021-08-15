@@ -13,8 +13,8 @@ else:
     sommanumeri = 0
     totalenumeri = 0
     while numero !=0:
-       sommanumeri += numero
-       totalenumeri += 1
+       sommanumeri += numero               # sommo il numero
+       totalenumeri += 1                   # conteggio i numeri
 
        print("Inserisci un altro numero oppure inserisci 0 per stoppare")
        numero=int(input())

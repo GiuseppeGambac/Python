@@ -10,4 +10,4 @@ rimborsopiulitro = piulitro * 0.25
 
 rimborsototale = rimborsomenolitro + rimborsopiulitro
 
-print(str("%.2f" % rimborsototale)+ "$")           # In questo modo posso formattare dei valori come voglio io 
+print("%.2f$"  % rimborsototale)           # In questo modo posso formattare dei valori come voglio io 

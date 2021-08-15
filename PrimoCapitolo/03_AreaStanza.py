@@ -5,7 +5,7 @@ print("inserisci lunghezza stanza in metri")
 lunghezza = float(input())
 
 areastanza = larghezza * lunghezza
-print(str(areastanza) +" metro quadrati")
+print(str(areastanza) +" metri quadrati")
 
 
 
