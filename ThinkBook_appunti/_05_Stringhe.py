@@ -101,7 +101,7 @@ print (parolanuova)
 print('-----------------------------------------')    ## separo il foglio
 
 frase = " ciao                "
-word = frase.strip()                      # rimuove tutti gli spazi vuoti
+word = frase.strip()                      # rimuove tutti gli spazi vuoti e gli a capo
 word2 = parolanuova.split()               # riporta una lista con tutte le parole
 print(word) 
 print(word2) 
